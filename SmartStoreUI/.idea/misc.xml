@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SSAFY/gumi06_07th_seojaehyeong/00Projects/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_review.xml" value="0.303125" />
+        <entry key="..\:/SSAFY/gumi06_07th_seojaehyeong/00Projects/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/rating_dialog.xml" value="0.303125" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/coffee_menu_back_round.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_menu_detail.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_order.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_shopping_list.xml" value="0.14437689969604864" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/comment_item.xml" value="0.13148148148148148" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/dialog_popup.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_detail_item.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_item.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/app/src/main/res/layout/activity_menu_detail.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/aos_pjt3_gumi0607_04/app/src/main/res/layout/activity_order.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/button_back.xml" value="0.178" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/button_cancel.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/button_color.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/button_regular.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/button_white_color.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_beige_border_round.xml" value="0.208" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_beige_half_round.xml" value="0.201" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_beige_half_round_bottom.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_beige_round.xml" value="0.2195" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_brown_half_round.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_brown_round.xml" value="0.2195" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_gray_half_bottomround.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_gray_half_round.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_gray_round.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_lightgray_round.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/color_white_round.xml" value="0.111" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_add_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_analytics_24.xml" value="0.141" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_backspace_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_home_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_logout_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_refresh_24.xml" value="0.178" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/ic_shopping_cart_24.xml" value="0.175" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/drawable/progressbar.xml" value="0.2005" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_add_review.xml" value="0.22" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_alarm.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_analytics.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_beacon_result.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_coupon.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_coupon_list.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_home.xml" value="0.26197916666666665" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_join.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_map.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_menu_detail.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_menu_detail2.xml" value="0.2953125" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_menu_list.xml" value="0.18" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_my_page.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_order.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_order_detail.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_order_list.xml" value="0.24375" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_review.xml" value="0.24721603563474387" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_shopping_list.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/activity_splashscreen.xml" value="0.14" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/alarm_item.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/comment_item.xml" value="0.32135416666666666" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/coupon_item.xml" value="0.18" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/custom_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/dialog_popup.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/item_spinner.xml" value="0.25" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/map_dialog.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/menu_item.xml" value="0.22" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_detail_item.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_history_item.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_item.xml" value="0.33" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_item2.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/order_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/rating_dialog.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/review_item.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/layout/toolbar_main.xml" value="0.1" />
+        <entry key="..\:/Users/multicampus/Desktop/final_gumi0607_04/SmartStoreUI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27239583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/beige"
+    android:orientation="vertical"
+    tools:context=".reviews.ReviewActivity">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_main" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="60dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/gray"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_total_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="2dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:text="전체"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_1_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:text="아메리카노"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_2_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:padding="5dp"
+                android:text="카페라떼"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_3_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:text="카라멜 마끼아또"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_4_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:padding="5dp"
+                android:text="카푸치노"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_5_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:text="모카라떼"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_6_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:text="민트라떼"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_7_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:padding="5dp"
+                android:text="화이트 모카라떼"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_8_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:padding="5dp"
+                android:text="자몽에이드"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_9_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:padding="5dp"
+                android:text="레몬에이드"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_10_review"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginTop="3dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginBottom="3dp"
+                android:background="@drawable/color_white_round"
+                android:fontFamily="@font/bmjua"
+                android:padding="5dp"
+                android:text="초코칩쿠키"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_review"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            android:background="@color/gray"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginRight="14dp"
+            android:layout_marginBottom="14dp"
+            android:backgroundTint="@color/white"
+            android:clickable="true"
+            android:contentDescription="리뷰 등록"
+            android:elevation="10dp"
+            android:src="@drawable/ic_add_24"
+            app:borderWidth="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/color_white_round"
+    android:padding="5dp"
+    android:layout_marginBottom="2dp">
+
+    <LinearLayout
+        android:id="@+id/listitemlinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvOrderDate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fontFamily="@font/bmjua"
+            android:gravity="center"
+            android:text="05.06"
+            android:textColor="@color/darkgray"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvOrderState"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:fontFamily="@font/bmjua"
+            android:gravity="center"
+            android:text="픽업완료"
+            android:textColor="@color/darkgray"
+            android:textSize="16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.7" />
+
+        <Button
+            android:id="@+id/btn_order_detail"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="@drawable/color_lightgray_round"
+            android:fontFamily="@font/font"
+            android:gravity="center"
+            android:text="주문상세"
+            android:textColor="@color/black"
+            android:textSize="13sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgStuff"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_margin="14dp"
+        android:background="@drawable/coffee_menu_back_round"
+        android:padding="4dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/coffee1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/listitemlinear" />
+
+    <TextView
+        android:id="@+id/tvOrderStuff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:fontFamily="@font/bmjua"
+        android:text="아메리카노 외 2잔"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imgStuff"
+        app:layout_constraintTop_toBottomOf="@id/listitemlinear" />
+
+    <TextView
+        android:id="@+id/tvOrderPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dp"
+        android:fontFamily="@font/bmjua"
+        android:text="25,000원"
+        android:textColor="@color/darkgray"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvOrderStuff" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintEnd_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imgStuff" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

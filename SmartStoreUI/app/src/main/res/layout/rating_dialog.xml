@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <Space
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></Space>
+
+    <TextView
+        android:id="@+id/tvDialogTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/eland_choice_b"
+        android:gravity="center"
+        android:text="별점선택"
+        android:textColor="@color/coffee_dark_brown"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/space"></TextView>
+
+    <RatingBar
+        android:id="@+id/rbDialogStar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5"
+        android:progressBackgroundTint="@color/lightgray"
+        android:progressTint="@color/yellow"
+        android:rating="4"
+        android:secondaryProgressTint="@color/lightgray"
+        android:stepSize="0.5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvDialogTitle"></RatingBar>
+
+    <Button
+        android:id="@+id/btnDialogNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:text="취소"
+        android:textColor="@color/coffee_brown"
+        app:layout_constraintEnd_toStartOf="@id/btnDialogYes"
+        app:layout_constraintTop_toBottomOf="@id/rbDialogStar"></Button>
+
+    <Button
+        android:id="@+id/btnDialogYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:text="확인"
+        android:textColor="@color/coffee_brown"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rbDialogStar"></Button>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

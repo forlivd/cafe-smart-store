@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spins">
+        <item>아메리카노</item>
+        <item>카페라떼</item>
+        <item>카라멜 마끼아또</item>
+        <item>카푸치노</item>
+        <item>모카라떼</item>
+        <item>민트라떼</item>
+        <item>화이트 모카라떼</item>
+        <item>자몽에이드</item>
+        <item>레몬에이드</item>
+        <item>초코칩 쿠키</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915313524851",
+    "project_id": "smartstore-ed609",
+    "storage_bucket": "smartstore-ed609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915313524851:android:1fc17bc18151ef73126a06",
+        "android_client_info": {
+          "package_name": "com.ssafy.smartstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915313524851-3q8e71br1hols6molbu3ccb54h82m730.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssafy.smartstore",
+            "certificate_hash": "261a823c334891f009511fa63a46d6b4679451d9"
+          }
+        },
+        {
+          "client_id": "915313524851-mtp1ilrnhhcluao4oee5nrd1t8knmrrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWOys6sXXeluxDhdnAvKKi3FckWhxsEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915313524851-mtp1ilrnhhcluao4oee5nrd1t8knmrrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
